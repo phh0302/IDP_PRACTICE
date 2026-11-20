@@ -1,0 +1,9 @@
+name: dart_order
+description: Introduction to Dart Programming - Set01 - My Order website
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+# Chỉ dùng thư viện chuẩn (dart:io, dart:convert) - không cần package ngoài.
